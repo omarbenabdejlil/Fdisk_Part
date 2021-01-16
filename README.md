@@ -33,7 +33,7 @@ Partition number (1-4, default 2):
 Using default value 2
 First sector (2099200-4194303, default 2099200): 
 Using default value 2099200
-Last sector, +sectors or +size{K,M,G} (2099200-4194303, default 4194303): +10M
+Last sector, +sectors or +size{K,M,G} (2099200-4194303, default 4194303): +1G
 ```
 <hr>
 
