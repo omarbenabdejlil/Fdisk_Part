@@ -1,4 +1,4 @@
-# Fdisk_Part TP {Auth : BenABdejlilOmar} 
+# Fdisk_Part TP {Auth : Omar Benabdejlil} 
 CCDAD.1
 # fdisk_partitions
 ![linux fun](https://cdn.systweak.com/content/wp/systweakblogsnew/uploads_new/2019/10/Blog-Cover-Partition-Manager-Tools-for-Linux-and-Ubuntu-1.jpg)
